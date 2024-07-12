@@ -1,4 +1,4 @@
-## 😀 About Me
+# 😀 Hi!
 
 You can view my portfolio here: [my portfolio](https://darellanodev.github.io/)
 

@@ -1,5 +1,7 @@
 # 😀 Hi there
 
+![Darellanodev logo](https://github.com/darellanodev/darellanodev.github.io/blob/main/img/darellanodev_logo.svg?raw=true)
+
 You can view my portfolio here:
 
 [![My portfolio](https://img.shields.io/badge/My%20portfolio-%230077B5.svg)](https://darellanodev.github.io/)

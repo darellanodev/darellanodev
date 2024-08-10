@@ -1,4 +1,4 @@
-# 😀 Hi there
+# 😀 Hi there, I am
 
 ![Darellanodev logo](https://github.com/darellanodev/darellanodev.github.io/blob/main/img/darellanodev_logo.svg?raw=true)
 

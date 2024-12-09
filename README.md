@@ -22,6 +22,7 @@ You can view my portfolio here:
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&style=flat)](https://github.com/darellanodev)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)](https://github.com/darellanodev)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=flat)](https://github.com/darellanodev)
+[![Parcel](https://img.shields.io/badge/Parcel-21374b?style=flat&logo=parcel&logoColor=white)](https://parceljs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)](https://github.com/darellanodev)
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)](https://github.com/darellanodev)
 
@@ -30,6 +31,12 @@ You can view my portfolio here:
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white&style=flat)](https://github.com/darellanodev)
 [![Node.Js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white&style=flat)](https://github.com/darellanodev)
 [![Golang](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white&style=flat)](https://github.com/darellanodev)
+
+### Testing
+
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)](https://jestjs.io)
+[![Playwright](https://img.shields.io/badge/Playwright-333333?style=flat&logo=playwright&logoColor=white)](https://playwright.dev)
+[![PHPUnit](https://img.shields.io/badge/PHPUnit-003b5c?style=flat&logo=phpunit&logoColor=white)](https://phpunit.de)
 
 ### Package managers
 

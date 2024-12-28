@@ -12,6 +12,84 @@ You can view my portfolio here:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/CnqcGBC3)
 [![Codewars](https://www.codewars.com/users/darellanodev/badges/micro)](https://www.codewars.com/r/4ZzcAQ)
 
+## 🚀 Repositories
+
+<div>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/darellanodev/gif-tower-defense"><img src="https://img.shields.io/badge/gif--tower--defense-0078D7.svg?logo=github&logoColor=white&style=flat" alt="gif-tower-defense"></a><br>
+        <a href="https://github.com/darellanodev/gif-tower-defense/issues"><img src="https://img.shields.io/github/issues-raw/darellanodev/gif-tower-defense.svg?style=flat&logo=github&logoColor=white" alt="issues"></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/darellanodev/jetpack-game"><img src="https://img.shields.io/badge/jetpack--game-0078D7.svg?logo=github&logoColor=white&style=flat" alt="jetpack-game"></a><br>
+        <a href="https://github.com/darellanodev/jetpack-game/issues"><img src="https://img.shields.io/github/issues-raw/darellanodev/jetpack-game.svg?style=flat&logo=github&logoColor=white" alt="issues"></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/darellanodev/daily-boost-calendar"><img src="https://img.shields.io/badge/daily--boost--calendar-0078D7.svg?logo=github&logoColor=white&style=flat" alt="daily-boost-calendar"></a><br>
+        <a href="https://github.com/darellanodev/daily-boost-calendar/issues"><img src="https://img.shields.io/github/issues-raw/darellanodev/daily-boost-calendar.svg?style=flat&logo=github&logoColor=white" alt="issues"></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/darellanodev/yt-dlp-gui"><img src="https://img.shields.io/badge/yt--dlp--gui-0078D7.svg?logo=github&logoColor=white&style=flat" alt="yt-dlp-gui"></a><br>
+        <a href="https://github.com/darellanodev/yt-dlp-gui/issues"><img src="https://img.shields.io/github/issues-raw/darellanodev/yt-dlp-gui.svg?style=flat&logo=github&logoColor=white" alt="issues"></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/darellanodev/task-eater-manager"><img src="https://img.shields.io/badge/task--eater--manager-0078D7.svg?logo=github&logoColor=white&style=flat" alt="task-eater-manager"></a><br>
+        <a href="https://github.com/darellanodev/task-eater-manager/issues"><img src="https://img.shields.io/github/issues-raw/darellanodev/task-eater-manager.svg?style=flat&logo=github&logoColor=white" alt="issues"></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/darellanodev/katas-for-practice"><img src="https://img.shields.io/badge/katas--for--practice-0078D7.svg?logo=github&logoColor=white&style=flat" alt="katas-for-practice"></a><br>
+        <a href="https://github.com/darellanodev/katas-for-practice/issues"><img src="https://img.shields.io/github/issues-raw/darellanodev/katas-for-practice.svg?style=flat&logo=github&logoColor=white" alt="issues"></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/darellanodev/portfolio-zola"><img src="https://img.shields.io/badge/portfolio--zola-0078D7.svg?logo=github&logoColor=white&style=flat" alt="portfolio-zola"></a><br>
+        <a href="https://github.com/darellanodev/portfolio-zola/issues"><img src="https://img.shields.io/github/issues-raw/darellanodev/portfolio-zola.svg?style=flat&logo=github&logoColor=white" alt="issues"></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/darellanodev/javascript-concepts"><img src="https://img.shields.io/badge/javascript--concepts-0078D7.svg?logo=github&logoColor=white&style=flat" alt="javascript-concepts"></a><br>
+        <a href="https://github.com/darellanodev/javascript-concepts/issues"><img src="https://img.shields.io/github/issues-raw/darellanodev/javascript-concepts.svg?style=flat&logo=github&logoColor=white" alt="issues"></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/darellanodev/darellanodev.github.io"><img src="https://img.shields.io/badge/darellanodev.github.io-0078D7.svg?logo=github&logoColor=white&style=flat" alt="darellanodev.github.io"></a><br>
+        <a href="https://github.com/darellanodev/darellanodev.github.io/issues"><img src="https://img.shields.io/github/issues-raw/darellanodev/darellanodev.github.io.svg?style=flat&logo=github&logoColor=white" alt="issues"></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/darellanodev/darellanodev"><img src="https://img.shields.io/badge/darellanodev-0078D7.svg?logo=github&logoColor=white&style=flat" alt="darellanodev"></a><br>
+        <a href="https://github.com/darellanodev/darellanodev/issues"><img src="https://img.shields.io/github/issues-raw/darellanodev/darellanodev.svg?style=flat&logo=github&logoColor=white" alt="issues"></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/darellanodev/designs-for-learning"><img src="https://img.shields.io/badge/designs--for--learning-0078D7.svg?logo=github&logoColor=white&style=flat" alt="designs-for-learning"></a><br>
+        <a href="https://github.com/darellanodev/designs-for-learning/issues"><img src="https://img.shields.io/github/issues-raw/darellanodev/designs-for-learning.svg?style=flat&logo=github&logoColor=white" alt="issues"></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/darellanodev/sandbox"><img src="https://img.shields.io/badge/sandbox-0078D7.svg?logo=github&logoColor=white&style=flat" alt="sandbox"></a><br>
+        <a href="https://github.com/darellanodev/sandbox/issues"><img src="https://img.shields.io/github/issues-raw/darellanodev/sandbox.svg?style=flat&logo=github&logoColor=white" alt="issues"></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🤝Collaborations
+
+<div>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/darellanodev/juguetear-web">
+          <img src="https://img.shields.io/badge/juguetear--web-0078D7.svg?logo=github&logoColor=white&style=flat" alt="juguetear-web">
+        </a><br>
+        <a href="https://github.com/darellanodev/juguetear-web/issues">
+          <img src="https://img.shields.io/github/issues-raw/darellanodev/juguetear-web.svg?style=flat&logo=github&logoColor=white" alt="issues">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 💻 Tech Stack
 
 ### Frontend

@@ -105,12 +105,12 @@ You can view my portfolio here:
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/darellanodev/darellanodev">
-                    <img src="https://img.shields.io/badge/darellanodev-0078D7.svg?logo=github&logoColor=white&style=flat" alt="darellanodev">
+                <a href="https://github.com/darellanodev/face-toon-maker">
+                    <img src="https://img.shields.io/badge/face--toon--maker-0078D7.svg?logo=github&logoColor=white&style=flat" alt="face-toon-maker">
                 </a>
                 <br>
-                <a href="https://github.com/darellanodev/darellanodev/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/darellanodev.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                <a href="https://github.com/darellanodev/face-toon-maker/issues">
+                    <img src="https://img.shields.io/github/issues-raw/darellanodev/face-toon-maker.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
             <td>

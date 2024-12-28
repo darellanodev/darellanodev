@@ -15,9 +15,9 @@ You can view my portfolio here:
 ## 🚀 Repositories
 
 <div>
-    <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+    <table>
         <tr>
-            <td align="center" style="padding: 0; margin: 0;">
+            <td>
                 <a href="https://github.com/darellanodev/gif-tower-defense">
                     <img src="https://img.shields.io/badge/gif--tower--defense-0078D7.svg?logo=github&logoColor=white&style=flat" alt="gif-tower-defense">
                 </a>
@@ -26,7 +26,7 @@ You can view my portfolio here:
                     <img src="https://img.shields.io/github/issues-raw/darellanodev/gif-tower-defense.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
-            <td align="center" style="padding: 0; margin: 0;">
+            <td>
                 <a href="https://github.com/darellanodev/jetpack-game">
                     <img src="https://img.shields.io/badge/jetpack--game-0078D7.svg?logo=github&logoColor=white&style=flat" alt="jetpack-game">
                 </a>
@@ -35,7 +35,7 @@ You can view my portfolio here:
                     <img src="https://img.shields.io/github/issues-raw/darellanodev/jetpack-game.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
-            <td align="center" style="padding: 0; margin: 0;">
+            <td>
                 <a href="https://github.com/darellanodev/daily-boost-calendar">
                     <img src="https://img.shields.io/badge/daily--boost--calendar-0078D7.svg?logo=github&logoColor=white&style=flat" alt="daily-boost-calendar">
                 </a>
@@ -46,7 +46,7 @@ You can view my portfolio here:
             </td>
         </tr>
         <tr>
-            <td align="center" style="padding: 0; margin: 0;">
+            <td>
                 <a href="https://github.com/darellanodev/yt-dlp-gui">
                     <img src="https://img.shields.io/badge/yt--dlp--gui-0078D7.svg?logo=github&logoColor=white&style=flat" alt="yt-dlp-gui">
                 </a>
@@ -55,7 +55,7 @@ You can view my portfolio here:
                     <img src="https://img.shields.io/github/issues-raw/darellanodev/yt-dlp-gui.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
-            <td align="center" style="padding: 0; margin: 0;">
+            <td>
                 <a href="https://github.com/darellanodev/task-eater-manager">
                     <img src="https://img.shields.io/badge/task--eater--manager-0078D7.svg?logo=github&logoColor=white&style=flat" alt="task-eater-manager">
                 </a>
@@ -64,7 +64,7 @@ You can view my portfolio here:
                     <img src="https://img.shields.io/github/issues-raw/darellanodev/task-eater-manager.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
-            <td align="center" style="padding: 0; margin: 0;">
+            <td>
                 <a href="https://github.com/darellanodev/katas-for-practice">
                     <img src="https://img.shields.io/badge/katas--for--practice-0078D7.svg?logo=github&logoColor=white&style=flat" alt="katas-for-practice">
                 </a>
@@ -75,7 +75,7 @@ You can view my portfolio here:
             </td>
         </tr>
         <tr>
-            <td align="center" style="padding: 0; margin: 0;">
+            <td>
                 <a href="https://github.com/darellanodev/portfolio-zola">
                     <img src="https://img.shields.io/badge/portfolio--zola-0078D7.svg?logo=github&logoColor=white&style=flat" alt="portfolio-zola">
                 </a>
@@ -84,7 +84,7 @@ You can view my portfolio here:
                     <img src="https://img.shields.io/github/issues-raw/darellanodev/portfolio-zola.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
-            <td align="center" style="padding: 0; margin: 0;">
+            <td>
                 <a href="https://github.com/darellanodev/javascript-concepts">
                     <img src="https://img.shields.io/badge/javascript--concepts-0078D7.svg?logo=github&logoColor=white&style=flat" alt="javascript-concepts">
                 </a>
@@ -93,7 +93,7 @@ You can view my portfolio here:
                     <img src="https://img.shields.io/github/issues-raw/darellanodev/javascript-concepts.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
-            <td align="center" style="padding: 0; margin: 0;">
+            <td>
                 <a href="https://github.com/darellanodev/darellanodev.github.io">
                     <img src="https://img.shields.io/badge/darellanodev.github.io-0078D7.svg?logo=github&logoColor=white&style=flat" alt="darellanodev.github.io">
                 </a>
@@ -104,7 +104,7 @@ You can view my portfolio here:
             </td>
         </tr>
         <tr>
-            <td align="center" style="padding: 0; margin: 0;">
+            <td>
                 <a href="https://github.com/darellanodev/darellanodev">
                     <img src="https://img.shields.io/badge/darellanodev-0078D7.svg?logo=github&logoColor=white&style=flat" alt="darellanodev">
                 </a>
@@ -113,7 +113,7 @@ You can view my portfolio here:
                     <img src="https://img.shields.io/github/issues-raw/darellanodev/darellanodev.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
-            <td align="center" style="padding: 0; margin: 0;">
+            <td>
                 <a href="https://github.com/darellanodev/designs-for-learning">
                     <img src="https://img.shields.io/badge/designs--for--learning-0078D7.svg?logo=github&logoColor=white&style=flat" alt="designs-for-learning">
                 </a>
@@ -122,7 +122,7 @@ You can view my portfolio here:
                     <img src="https://img.shields.io/github/issues-raw/darellanodev/designs-for-learning.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
-            <td align="center" style="padding: 0; margin: 0;">
+            <td>
                 <a href="https://github.com/darellanodev/sandbox">
                     <img src="https://img.shields.io/badge/sandbox-0078D7.svg?logo=github&logoColor=white&style=flat" alt="sandbox">
                 </a>
@@ -141,10 +141,11 @@ You can view my portfolio here:
 <div>
   <table>
     <tr>
-      <td align="center">
+      <td>
         <a href="https://github.com/darellanodev/juguetear-web">
           <img src="https://img.shields.io/badge/juguetear--web-0078D7.svg?logo=github&logoColor=white&style=flat" alt="juguetear-web">
-        </a><br>
+        </a>
+        <br>
         <a href="https://github.com/darellanodev/juguetear-web/issues">
           <img src="https://img.shields.io/github/issues-raw/darellanodev/juguetear-web.svg?style=flat&logo=github&logoColor=white" alt="issues">
         </a>

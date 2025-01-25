@@ -12,7 +12,7 @@ You can view my portfolio here:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/CnqcGBC3)
 [![Codewars](https://www.codewars.com/users/darellanodev/badges/micro)](https://www.codewars.com/r/4ZzcAQ)
 
-## 🚀 Repositories
+## 🚀 Application Repositories
 
 <div>
     <table>
@@ -65,52 +65,30 @@ You can view my portfolio here:
                 </a>
             </td>
             <td>
-                <a href="https://github.com/darellanodev/katas-for-practice">
-                    <img src="https://img.shields.io/badge/katas--for--practice-0078D7.svg?logo=github&logoColor=white&style=flat" alt="katas-for-practice">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/katas-for-practice/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/katas-for-practice.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/darellanodev/portfolio-zola">
-                    <img src="https://img.shields.io/badge/portfolio--zola-0078D7.svg?logo=github&logoColor=white&style=flat" alt="portfolio-zola">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/portfolio-zola/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/portfolio-zola.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/darellanodev/javascript-concepts">
-                    <img src="https://img.shields.io/badge/javascript--concepts-0078D7.svg?logo=github&logoColor=white&style=flat" alt="javascript-concepts">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/javascript-concepts/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/javascript-concepts.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/darellanodev/darellanodev.github.io">
-                    <img src="https://img.shields.io/badge/darellanodev.github.io-0078D7.svg?logo=github&logoColor=white&style=flat" alt="darellanodev.github.io">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/darellanodev.github.io/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/darellanodev.github.io.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
                 <a href="https://github.com/darellanodev/face-toon-maker">
                     <img src="https://img.shields.io/badge/face--toon--maker-0078D7.svg?logo=github&logoColor=white&style=flat" alt="face-toon-maker">
                 </a>
                 <br>
                 <a href="https://github.com/darellanodev/face-toon-maker/issues">
                     <img src="https://img.shields.io/github/issues-raw/darellanodev/face-toon-maker.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+## 📚 Learning & Practice Projects
+
+<div>
+    <table>
+        <tr>
+            <td>
+                <a href="https://github.com/darellanodev/katas-for-practice">
+                    <img src="https://img.shields.io/badge/katas--for--practice-0078D7.svg?logo=github&logoColor=white&style=flat" alt="katas-for-practice">
+                </a>
+                <br>
+                <a href="https://github.com/darellanodev/katas-for-practice/issues">
+                    <img src="https://img.shields.io/github/issues-raw/darellanodev/katas-for-practice.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
             <td>
@@ -132,9 +110,37 @@ You can view my portfolio here:
                 </a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/darellanodev/typescript-patterns">
+                    <img src="https://img.shields.io/badge/typescript--patterns-0078D7.svg?logo=github&logoColor=white&style=flat" alt="portfolio-zola">
+                </a>
+                <br>
+                <a href="https://github.com/darellanodev/typescript-patterns/issues">
+                    <img src="https://img.shields.io/github/issues-raw/darellanodev/typescript-patterns.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/darellanodev/javascript-concepts">
+                    <img src="https://img.shields.io/badge/javascript--concepts-0078D7.svg?logo=github&logoColor=white&style=flat" alt="javascript-concepts">
+                </a>
+                <br>
+                <a href="https://github.com/darellanodev/javascript-concepts/issues">
+                    <img src="https://img.shields.io/github/issues-raw/darellanodev/javascript-concepts.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/darellanodev/refactoring-practice">
+                    <img src="https://img.shields.io/badge/refactoring--practice-0078D7.svg?logo=github&logoColor=white&style=flat" alt="javascript-concepts">
+                </a>
+                <br>
+                <a href="https://github.com/darellanodev/refactoring-practice/issues">
+                    <img src="https://img.shields.io/github/issues-raw/darellanodev/refactoring-practice.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+        </tr>
     </table>
 </div>
-
 
 ## 🤝Collaborations
 
@@ -152,6 +158,33 @@ You can view my portfolio here:
       </td>
     </tr>
   </table>
+</div>
+
+## 👨‍💻 Portfolio Repositories
+
+<div>
+    <table>
+        <tr>
+            <td>
+                <a href="https://github.com/darellanodev/portfolio-zola">
+                    <img src="https://img.shields.io/badge/portfolio--zola-0078D7.svg?logo=github&logoColor=white&style=flat" alt="portfolio-zola">
+                </a>
+                <br>
+                <a href="https://github.com/darellanodev/portfolio-zola/issues">
+                    <img src="https://img.shields.io/github/issues-raw/darellanodev/portfolio-zola.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/darellanodev/darellanodev.github.io">
+                    <img src="https://img.shields.io/badge/darellanodev.github.io-0078D7.svg?logo=github&logoColor=white&style=flat" alt="darellanodev.github.io">
+                </a>
+                <br>
+                <a href="https://github.com/darellanodev/darellanodev.github.io/issues">
+                    <img src="https://img.shields.io/github/issues-raw/darellanodev/darellanodev.github.io.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
 
 ## 💻 Tech Stack

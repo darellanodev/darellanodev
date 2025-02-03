@@ -211,6 +211,7 @@ You can view my portfolio here:
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)](https://jestjs.io)
 [![Playwright](https://img.shields.io/badge/Playwright-333333?style=flat&logo=playwright&logoColor=white)](https://playwright.dev)
 [![PHPUnit](https://img.shields.io/badge/PHPUnit-003b5c?style=flat&logo=phpunit&logoColor=white)](https://phpunit.de)
+[![Vitest](https://img.shields.io/badge/vitest-%23646CFF.svg?style=flat&logo=vitest&logoColor=white)](https://vitest.dev)
 
 ### Package managers
 

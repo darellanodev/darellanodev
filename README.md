@@ -257,7 +257,3 @@ You can view my portfolio here:
 ## ✍️ Random Dev Quote
 
 ![random-dev-quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 📊 Visit count
-
-[![visit-counter](https://visitcount.itsvg.in/api?id=darellanodev&icon=0&color=0)](https://visitcount.itsvg.in)

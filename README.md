@@ -74,6 +74,23 @@ You can view my portfolio here:
                 </a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/darellanodev/job-calendar">
+                    <img src="https://img.shields.io/badge/job--calendar-0078D7.svg?logo=github&logoColor=white&style=flat" alt="job-calendar">
+                </a>
+                <br>
+                <a href="https://github.com/darellanodev/job-calendar/issues">
+                    <img src="https://img.shields.io/github/issues-raw/darellanodev/job-calendar.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+            <td>
+                ---
+            </td>
+            <td>
+                ---
+            </td>
+        </tr>
     </table>
 </div>
 

@@ -264,6 +264,7 @@ You can view my portfolio here:
 [![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13&style=flat)](https://github.com/darellanodev)
 [![Piskel](https://img.shields.io/badge/Piskel-blue?style=for-the-badge&style=flat)](https://github.com/darellanodev)
 [![Bfxr](https://img.shields.io/badge/Bfxr-orange?style=for-the-badge&style=flat)](https://github.com/darellanodev)
+[![Penpot](https://img.shields.io/badge/Penpot-808080?style=for-the-badge&logo=penpot&logoColor=white&style=flat)](https://github.com/darellanodev)
 
 ## 📊 GitHub Stats
 

@@ -267,6 +267,12 @@ You can view my portfolio here:
 [![Penpot](https://img.shields.io/badge/Penpot-808080?style=for-the-badge&logo=penpot&logoColor=white&style=flat)](https://github.com/darellanodev)
 [![Excalidraw](https://img.shields.io/badge/Excalidraw-003b5c?style=for-the-badge&logo=excalidraw&logoColor=white&style=flat)](https://github.com/darellanodev)
 
+## 🗂️ Project Management Tools
+
+[![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white&style=flat)](https://github.com/darellanodev)
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white&style=flat)](https://github.com/darellanodev)
+[![Taiga](https://img.shields.io/badge/Taiga-white?style=for-the-badge&logo=taiga&logoColor=black&style=flat)](https://github.com/darellanodev)
+
 ## 📊 GitHub Stats
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=darellanodev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)

@@ -265,6 +265,7 @@ You can view my portfolio here:
 [![Piskel](https://img.shields.io/badge/Piskel-blue?style=for-the-badge&style=flat)](https://github.com/darellanodev)
 [![Bfxr](https://img.shields.io/badge/Bfxr-orange?style=for-the-badge&style=flat)](https://github.com/darellanodev)
 [![Penpot](https://img.shields.io/badge/Penpot-808080?style=for-the-badge&logo=penpot&logoColor=white&style=flat)](https://github.com/darellanodev)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&style=flat)](https://github.com/darellanodev)
 [![Excalidraw](https://img.shields.io/badge/Excalidraw-003b5c?style=for-the-badge&logo=excalidraw&logoColor=white&style=flat)](https://github.com/darellanodev)
 
 ## 🗂️ Project Management Tools

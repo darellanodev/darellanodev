@@ -2,14 +2,14 @@
 
 ![Darellanodev logo](https://github.com/darellanodev/darellanodev.github.io/blob/main/img/darellanodev_logo.svg?raw=true)
 
-You can view my portfolio here:
+You can view my portfolio and blog here:
 
 [![My portfolio](https://img.shields.io/badge/My%20portfolio-%230077B5.svg)](https://darellanodev.github.io/)
+[![My blog](https://img.shields.io/badge/My%20blog-%230077B5.svg)](https://darellanodev.github.io/blog/)
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darellanoaliaga/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/CnqcGBC3)
 [![Codewars](https://www.codewars.com/users/darellanodev/badges/micro)](https://www.codewars.com/r/4ZzcAQ)
 
 ## 🚀 Application Repositories

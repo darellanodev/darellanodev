@@ -85,7 +85,13 @@ You can view my portfolio and blog here:
                 </a>
             </td>
             <td>
-                ---
+                <a href="https://github.com/darellanodev/bookmark-box">
+                    <img src="https://img.shields.io/badge/bookmark--box-0078D7.svg?logo=github&logoColor=white&style=flat" alt="bookmark-box">
+                </a>
+                <br>
+                <a href="https://github.com/darellanodev/bookmark-box/issues">
+                    <img src="https://img.shields.io/github/issues-raw/darellanodev/bookmark-box.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
             </td>
             <td>
                 ---

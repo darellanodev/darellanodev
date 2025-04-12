@@ -94,7 +94,13 @@ You can view my portfolio and blog here:
                 </a>
             </td>
             <td>
-                ---
+                <a href="https://github.com/darellanodev/stellar-task">
+                    <img src="https://img.shields.io/badge/stellar--task-0078D7.svg?logo=github&logoColor=white&style=flat" alt="stellar-task">
+                </a>
+                <br>
+                <a href="https://github.com/darellanodev/stellar-task/issues">
+                    <img src="https://img.shields.io/github/issues-raw/darellanodev/stellar-task.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
             </td>
         </tr>
     </table>

@@ -168,6 +168,21 @@ You can view my portfolio and blog here:
                 </a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/darellanodev/fm-projects">
+                    <img src="https://img.shields.io/badge/fm--projects-0078D7.svg?logo=github&logoColor=white&style=flat" alt="fm-projects">
+                </a>
+                <br>
+                <a href="https://github.com/darellanodev/fm-projects/issues">
+                    <img src="https://img.shields.io/github/issues-raw/darellanodev/fm-projects.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+        </tr>
     </table>
 </div>
 

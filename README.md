@@ -106,6 +106,21 @@ You can view my portfolio and blog here:
                 </a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/darellanodev/chef-ai">
+                    <img src="https://img.shields.io/badge/chef--ai-0078D7.svg?logo=github&logoColor=white&style=flat" alt="chef-ai">
+                </a>
+                <br>
+                <a href="https://github.com/darellanodev/chef-ai/issues">
+                    <img src="https://img.shields.io/github/issues-raw/darellanodev/chef-ai.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+        </tr>
     </table>
 </div>
 

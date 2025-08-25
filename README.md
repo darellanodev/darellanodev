@@ -117,6 +117,13 @@ You can view my portfolio and blog here:
                 </a>
             </td>
             <td>
+                <a href="https://github.com/darellanodev/taskio">
+                    <img src="https://img.shields.io/badge/taskio-0078D7.svg?logo=github&logoColor=white&style=flat" alt="taskio">
+                </a>
+                <br>
+                <a href="https://github.com/darellanodev/taskio/issues">
+                    <img src="https://img.shields.io/github/issues-raw/darellanodev/taskio.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>                
             </td>
             <td>
             </td>

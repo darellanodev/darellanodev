@@ -103,7 +103,15 @@ You can view my portfolio and blog here:
                     <img src="https://img.shields.io/github/issues-raw/darellanodev/croac-vim.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
-            <td></td>
+            <td>
+                <a href="https://github.com/darellanodev/monkey-banana-run">
+                    <img src="https://img.shields.io/badge/monkey--banana--run-0078D7.svg?logo=github&logoColor=white&style=flat" alt="monkey-banana-run">
+                </a>
+                <br>
+                <a href="https://github.com/darellanodev/monkey-banana-run/issues">
+                    <img src="https://img.shields.io/github/issues-raw/darellanodev/monkey-banana-run.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                </a>
+            </td>
             <td></td>
         </tr>
     </table>

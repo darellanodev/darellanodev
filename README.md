@@ -84,12 +84,12 @@ You can view my portfolio and blog here:
                 </a>
             </td>
             <td>
-                <a href="https://github.com/darellanodev/task-eater-manager">
-                    <img src="https://img.shields.io/badge/task--eater--manager-0078D7.svg?logo=github&logoColor=white&style=flat" alt="task-eater-manager">
+                <a href="https://github.com/darellanodev/bread-baron">
+                    <img src="https://img.shields.io/badge/bread--baron-0078D7.svg?logo=github&logoColor=white&style=flat" alt="bread-baron">
                 </a>
                 <br>
-                <a href="https://github.com/darellanodev/task-eater-manager/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/task-eater-manager.svg?style=flat&logo=github&logoColor=white" alt="issues">
+                <a href="https://github.com/darellanodev/bread-baron/issues">
+                    <img src="https://img.shields.io/github/issues-raw/darellanodev/bread-baron.svg?style=flat&logo=github&logoColor=white" alt="issues">
                 </a>
             </td>
         </tr>

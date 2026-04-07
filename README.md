@@ -17,295 +17,60 @@ You can view my portfolio and blog here:
 
 ## 🤝Collaborations
 
-<div>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/darellanodev/juguetear-web">
-          <img src="https://img.shields.io/badge/juguetear--web-0078D7.svg?logo=github&logoColor=white&style=flat" alt="juguetear-web">
-        </a>
-        <br>
-        <a href="https://github.com/darellanodev/juguetear-web/issues">
-          <img src="https://img.shields.io/github/issues-raw/darellanodev/juguetear-web.svg?style=flat&logo=github&logoColor=white" alt="issues">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/darellanodev/schema-flow">
-          <img src="https://img.shields.io/badge/schema--flow-0078D7.svg?logo=github&logoColor=white&style=flat" alt="schema-flow">
-        </a>
-        <br>
-        <a href="https://github.com/darellanodev/schema-flow/issues">
-          <img src="https://img.shields.io/github/issues-raw/darellanodev/schema-flow.svg?style=flat&logo=github&logoColor=white" alt="issues">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+- [**juguetear-web**](https://github.com/darellanodev/juguetear-web): A website for borrowing adapted toys.
+- [**schema-flow**](https://github.com/darellanodev/schema-flow): An application to easily create simple schemas
 
 ## 🎨 Design
 
-<div>
-    <table>
-        <tr>
-            <td>
-                <a href="https://github.com/darellanodev/face-toon-maker">
-                    <img src="https://img.shields.io/badge/face--toon--maker-0078D7.svg?logo=github&logoColor=white&style=flat" alt="face-toon-maker">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/face-toon-maker/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/face-toon-maker.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-        </tr>
-    </table>
-</div>
+- [**face-toon-maker**](https://github.com/darellanodev/face-toon-maker): A web app to customize a toon face
 
 ## 🎮 Games
 
-<div>
-    <table>
-        <tr>
-            <td>
-                <a href="https://github.com/darellanodev/gif-tower-defense">
-                    <img src="https://img.shields.io/badge/gif--tower--defense-0078D7.svg?logo=github&logoColor=white&style=flat" alt="gif-tower-defense">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/gif-tower-defense/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/gif-tower-defense.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/darellanodev/jetpack-game">
-                    <img src="https://img.shields.io/badge/jetpack--game-0078D7.svg?logo=github&logoColor=white&style=flat" alt="jetpack-game">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/jetpack-game/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/jetpack-game.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/darellanodev/bread-baron">
-                    <img src="https://img.shields.io/badge/bread--baron-0078D7.svg?logo=github&logoColor=white&style=flat" alt="bread-baron">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/bread-baron/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/bread-baron.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/darellanodev/croac-vim">
-                    <img src="https://img.shields.io/badge/croac--vim-0078D7.svg?logo=github&logoColor=white&style=flat" alt="croac-vim">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/croac-vim/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/croac-vim.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/darellanodev/monkey-banana-run">
-                    <img src="https://img.shields.io/badge/monkey--banana--run-0078D7.svg?logo=github&logoColor=white&style=flat" alt="monkey-banana-run">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/monkey-banana-run/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/monkey-banana-run.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-            <td></td>
-        </tr>
-    </table>
-</div>
+- [**gif-tower-defense**](https://github.com/darellanodev/gif-tower-defense): A tower defense game for web browsers
+- [**jetpack-game**](https://github.com/darellanodev/jetpack-game): An arcade game for web and Windows desktop
+- [**bread-baron**](https://github.com/darellanodev/bread-baron): A clicker style game
+- [**croac-vim**](https://github.com/darellanodev/croac-vim): A game for learning VIM made in Python
+- [**monkey-banana-run**](https://github.com/darellanodev/monkey-banana-run): A simple Java game built with LibGDX
+- [**tiny-loot-quest**](https://github.com/darellanodev/tiny-loot-quest): A simple top-down 2D game
 
 ## 📚 Learning
 
-<div>
-    <table>
-        <tr>
-            <td>
-                <a href="https://github.com/darellanodev/katas-for-practice">
-                    <img src="https://img.shields.io/badge/katas--for--practice-0078D7.svg?logo=github&logoColor=white&style=flat" alt="katas-for-practice">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/katas-for-practice/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/katas-for-practice.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/darellanodev/designs-for-learning">
-                    <img src="https://img.shields.io/badge/designs--for--learning-0078D7.svg?logo=github&logoColor=white&style=flat" alt="designs-for-learning">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/designs-for-learning/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/designs-for-learning.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/darellanodev/typescript-patterns">
-                    <img src="https://img.shields.io/badge/typescript--patterns-0078D7.svg?logo=github&logoColor=white&style=flat" alt="portfolio-zola">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/typescript-patterns/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/typescript-patterns.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/darellanodev/javascript-concepts">
-                    <img src="https://img.shields.io/badge/javascript--concepts-0078D7.svg?logo=github&logoColor=white&style=flat" alt="javascript-concepts">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/javascript-concepts/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/javascript-concepts.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/darellanodev/refactoring-practice">
-                    <img src="https://img.shields.io/badge/refactoring--practice-0078D7.svg?logo=github&logoColor=white&style=flat" alt="javascript-concepts">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/refactoring-practice/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/refactoring-practice.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-            <td></td>
-        </tr>
-    </table>
-</div>
+- [**katas-for-practice**](https://github.com/darellanodev/katas-for-practice): Collection of coding katas to practice programming languages.
+- [**designs-for-learning**](https://github.com/darellanodev/designs-for-learning): Designs to learn programming concepts and technologies
+- [**typescript-patterns**](https://github.com/darellanodev/typescript-patterns): Common TypeScript patterns for efficient coding
+- [**javascript-concepts**](https://github.com/darellanodev/javascript-concepts): JavaScript concepts with game examples
+- [**refactoring-practice**](https://github.com/darellanodev/refactoring-practice): Exercises to practice refactoring techniques
+- [**php-design-patterns**](https://github.com/darellanodev/php-design-patterns): Exercises to practice PHP design patterns
+- [**remotion-board**](https://github.com/darellanodev/remotion-board): Managing Remotion examples with Symfony
 
 ## 👨‍💻 Management
 
-<div>
-    <table>
-        <tr>
-            <td>
-                <a href="https://github.com/darellanodev/bookmark-box">
-                    <img src="https://img.shields.io/badge/bookmark--box-0078D7.svg?logo=github&logoColor=white&style=flat" alt="bookmark-box">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/bookmark-box/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/bookmark-box.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-            <td>
-            	<a href="https://github.com/darellanodev/daily-boost-calendar">
-            		<img src="https://img.shields.io/badge/daily--boost--calendar-0078D7.svg?logo=github&logoColor=white&style=flat" alt="daily-boost-calendar">
-            	</a>
-            	<br>
-            	<a href="https://github.com/darellanodev/daily-boost-calendar/issues">
-            		<img src="https://img.shields.io/github/issues-raw/darellanodev/daily-boost-calendar.svg?style=flat&logo=github&logoColor=white" alt="issues">
-            	</a>
-            </td>
-            <td>
-                <a href="https://github.com/darellanodev/job-calendar">
-                    <img src="https://img.shields.io/badge/job--calendar-0078D7.svg?logo=github&logoColor=white&style=flat" alt="job-calendar">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/job-calendar/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/job-calendar.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/darellanodev/stellar-task">
-                    <img src="https://img.shields.io/badge/stellar--task-0078D7.svg?logo=github&logoColor=white&style=flat" alt="stellar-task">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/stellar-task/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/stellar-task.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/darellanodev/taskio">
-                    <img src="https://img.shields.io/badge/taskio-0078D7.svg?logo=github&logoColor=white&style=flat" alt="taskio">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/taskio/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/taskio.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>                
-            </td>
-            <td></td>
-        </tr>
-    </table>
-</div>
+- [**bookmark-box**](https://github.com/darellanodev/bookmark-box): An easy bookmark manager
+- [**daily-boost-calendar**](https://github.com/darellanodev/daily-boost-calendar): A calendar like GitHub contributions
+- [**job-calendar**](https://github.com/darellanodev/job-calendar): App to manage workers' shifts for a year
+- [**stellar-task**](https://github.com/darellanodev/stellar-task): A simple application for managing projects
+- [**taskio**](https://github.com/darellanodev/taskio): A tool for managing tasks and projects
 
 ## 📁 Portfolio
 
-<div>
-    <table>
-        <tr>
-            <td>
-                <a href="https://github.com/darellanodev/portfolio-zola">
-                    <img src="https://img.shields.io/badge/portfolio--zola-0078D7.svg?logo=github&logoColor=white&style=flat" alt="portfolio-zola">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/portfolio-zola/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/portfolio-zola.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/darellanodev/darellanodev.github.io">
-                    <img src="https://img.shields.io/badge/darellanodev.github.io-0078D7.svg?logo=github&logoColor=white&style=flat" alt="darellanodev.github.io">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/darellanodev.github.io/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/darellanodev.github.io.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-        </tr>
-    </table>
-</div>
+- [**portfolio-zola**](https://github.com/darellanodev/portfolio-zola): My personal portfolio made with Zola
+- [**darellanodev.github.io**](https://github.com/darellanodev/darellanodev.github.io): My personal web portfolio
 
 ## 🛠️ Tools
 
-<div>
-    <table>
-        <tr>
-            <td>
-                <a href="https://github.com/darellanodev/chef-ai">
-                    <img src="https://img.shields.io/badge/chef--ai-0078D7.svg?logo=github&logoColor=white&style=flat" alt="chef-ai">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/chef-ai/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/chef-ai.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/darellanodev/yt-dlp-gui">
-                    <img src="https://img.shields.io/badge/yt--dlp--gui-0078D7.svg?logo=github&logoColor=white&style=flat" alt="yt-dlp-gui">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/yt-dlp-gui/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/yt-dlp-gui.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-        </tr>
-    </table>
-</div>
+- [**chef-ai**](https://github.com/darellanodev/chef-ai): A simple application to experiment with AI
+- [**yt-dlp-gui**](https://github.com/darellanodev/yt-dlp-gui): A GUI for the yt-dlp application
+- [**git-content-sync**](https://github.com/darellanodev/git-content-sync): CLI tool to sync commits between repositories
 
 ## 🌐 Webdesign
 
-<div>
-    <table>
-        <tr>
-            <td>
-                <a href="https://github.com/darellanodev/fm-projects">
-                    <img src="https://img.shields.io/badge/fm--projects-0078D7.svg?logo=github&logoColor=white&style=flat" alt="fm-projects">
-                </a>
-                <br>
-                <a href="https://github.com/darellanodev/fm-projects/issues">
-                    <img src="https://img.shields.io/github/issues-raw/darellanodev/fm-projects.svg?style=flat&logo=github&logoColor=white" alt="issues">
-                </a>
-            </td>
-        </tr>
-    </table>
-</div>
+- [**fm-projects**](https://github.com/darellanodev/fm-projects): Front-end projects from Frontend Mentor
+- [**croac-vim-website**](https://github.com/darellanodev/croac-vim-website): A Website about the croac-vim game
 
 ## 💻 Tech Stack
 
 ### Frontend
+
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/darellanodev)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/darellanodev)
 [![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat)](https://github.com/darellanodev)

@@ -17,7 +17,7 @@ You can view my portfolio and blog here:
 
 ## 🤝Collaborations
 
-- 🧸 [**juguetear-web**](https://github.com/darellanodev/juguetear-web): A website for borrowing adapted toys.
+- 🧸 [**juguetear-web**](https://github.com/darellanodev/juguetear-web): A website for borrowing adapted toys
 - 🧩 [**schema-flow**](https://github.com/darellanodev/schema-flow): An application to easily create simple schemas
 
 ## 🎨 Design
@@ -26,35 +26,35 @@ You can view my portfolio and blog here:
 
 ## 🎮 Games
 
-- 🏰 [**gif-tower-defense**](https://github.com/darellanodev/gif-tower-defense): A tower defense game for web browsers
-- 🚀 [**jetpack-game**](https://github.com/darellanodev/jetpack-game): An arcade game for web and Windows desktop
+- 🏰 [**gif-tower-defense**](https://github.com/darellanodev/gif-tower-defense): A tower defense game
+- 🚀 [**jetpack-game**](https://github.com/darellanodev/jetpack-game): An arcade game
 - 🍞 [**bread-baron**](https://github.com/darellanodev/bread-baron): A clicker style game
-- 🐸 [**croac-vim**](https://github.com/darellanodev/croac-vim): A game for learning VIM made in Python
-- 🍌 [**monkey-banana-run**](https://github.com/darellanodev/monkey-banana-run): A simple Java game built with LibGDX
+- 🐸 [**croac-vim**](https://github.com/darellanodev/croac-vim): A game for learning VIM
+- 🍌 [**monkey-banana-run**](https://github.com/darellanodev/monkey-banana-run): A simple arcade game
 - 🎒 [**tiny-loot-quest**](https://github.com/darellanodev/tiny-loot-quest): A simple top-down 2D game
 
 ## 📚 Learning
 
-- 🥋 [**katas-for-practice**](https://github.com/darellanodev/katas-for-practice): Collection of coding katas to practice programming languages.
-- 📐 [**designs-for-learning**](https://github.com/darellanodev/designs-for-learning): Designs to learn programming concepts and technologies
+- 🥋 [**katas-for-practice**](https://github.com/darellanodev/katas-for-practice): Collection of coding katas
+- 📐 [**designs-for-learning**](https://github.com/darellanodev/designs-for-learning): Designs to learn programming concepts
 - 📜 [**typescript-patterns**](https://github.com/darellanodev/typescript-patterns): Common TypeScript patterns for efficient coding
 - 🕹️ [**javascript-concepts**](https://github.com/darellanodev/javascript-concepts): JavaScript concepts with game examples
 - 🔧 [**refactoring-practice**](https://github.com/darellanodev/refactoring-practice): Exercises to practice refactoring techniques
 - 🐘 [**php-design-patterns**](https://github.com/darellanodev/php-design-patterns): Exercises to practice PHP design patterns
-- 🎬 [**remotion-board**](https://github.com/darellanodev/remotion-board): Managing Remotion examples with Symfony
+- 🎬 [**remotion-board**](https://github.com/darellanodev/remotion-board): Managing Remotion examples
 
 ## 👨‍💻 Management
 
 - 🔖 [**bookmark-box**](https://github.com/darellanodev/bookmark-box): An easy bookmark manager
 - 📅 [**daily-boost-calendar**](https://github.com/darellanodev/daily-boost-calendar): A calendar like GitHub contributions
-- 👷 [**job-calendar**](https://github.com/darellanodev/job-calendar): App to manage workers' shifts for a year
+- 👷 [**job-calendar**](https://github.com/darellanodev/job-calendar): App to schedule the user’s work shifts
 - ⭐ [**stellar-task**](https://github.com/darellanodev/stellar-task): A simple application for managing projects
 - ✅ [**taskio**](https://github.com/darellanodev/taskio): A tool for managing tasks and projects
 
 ## 📁 Portfolio
 
-- 🏠 [**portfolio-zola**](https://github.com/darellanodev/portfolio-zola): My personal portfolio made with Zola
-- 🌐 [**darellanodev.github.io**](https://github.com/darellanodev/darellanodev.github.io): My personal web portfolio
+- 🏠 [**portfolio-zola**](https://github.com/darellanodev/portfolio-zola): My personal blog and portfolio
+- 🌐 [**darellanodev.github.io**](https://github.com/darellanodev/darellanodev.github.io): My personal web portfolio on GitHub Pages
 
 ## 🛠️ Tools
 

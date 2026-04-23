@@ -40,7 +40,6 @@ You can view my portfolio and blog here:
 - 📜 [**typescript-patterns**](https://github.com/darellanodev/typescript-patterns): Common TypeScript patterns for efficient coding
 - 🕹️ [**javascript-concepts**](https://github.com/darellanodev/javascript-concepts): JavaScript concepts with game examples
 - 🔧 [**refactoring-practice**](https://github.com/darellanodev/refactoring-practice): Exercises to practice refactoring techniques
-- 🐘 [**php-design-patterns**](https://github.com/darellanodev/php-design-patterns): Exercises to practice PHP design patterns
 - 🎬 [**remotion-board**](https://github.com/darellanodev/remotion-board): Managing Remotion examples
 
 ## 👨‍💻 Management

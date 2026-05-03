@@ -37,6 +37,7 @@ You can view my portfolio and blog here:
 
 - 🥋 [**katas-for-practice**](https://github.com/darellanodev/katas-for-practice): Collection of coding katas
 - 📐 [**designs-for-learning**](https://github.com/darellanodev/designs-for-learning): Designs to learn programming concepts
+- 🐘​ [**pattern-lab-php**](https://github.com/darellanodev/pattern-lab-php): Experimenting with design patterns in PHP
 - 📜 [**typescript-patterns**](https://github.com/darellanodev/typescript-patterns): Common TypeScript patterns for efficient coding
 - 🕹️ [**javascript-concepts**](https://github.com/darellanodev/javascript-concepts): JavaScript concepts with game examples
 - 🔧 [**refactoring-practice**](https://github.com/darellanodev/refactoring-practice): Exercises to practice refactoring techniques

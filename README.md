@@ -32,6 +32,7 @@ You can view my portfolio and blog here:
 - 🐸 [**croac-vim**](https://github.com/darellanodev/croac-vim): A game for learning VIM
 - 🍌 [**monkey-banana-run**](https://github.com/darellanodev/monkey-banana-run): A simple arcade game
 - 🎒 [**tiny-loot-quest**](https://github.com/darellanodev/tiny-loot-quest): A simple top-down 2D game
+- 👨‍💼 [**out-of-office**](https://github.com/darellanodev/out-of-office): A simple game to learn about Three.js
 
 ## 📚 Learning
 

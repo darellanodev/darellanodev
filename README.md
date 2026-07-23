@@ -60,7 +60,7 @@ You can view my portfolio and blog here:
 ## 🛠️ Tools
 
 - 🍳 [**chef-ai**](https://github.com/darellanodev/chef-ai): A simple application to experiment with AI
-- 📺 [**yt-dlp-gui**](https://github.com/darellanodev/yt-dlp-gui): A GUI for the yt-dlp application
+- 📺 [**media-magnet**](https://github.com/darellanodev/media-magnet): A multi-tool GUI for video and audio downloads
 - 🔄 [**git-content-sync**](https://github.com/darellanodev/git-content-sync): CLI tool to sync commits between repositories
 
 ## 🌐 Webdesign

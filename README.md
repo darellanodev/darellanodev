@@ -62,6 +62,7 @@ You can view my portfolio and blog here:
 - 🍳 [**chef-ai**](https://github.com/darellanodev/chef-ai): A simple application to experiment with AI
 - 📺 [**media-magnet**](https://github.com/darellanodev/media-magnet): A multi-tool GUI for video and audio downloads
 - 🔄 [**git-content-sync**](https://github.com/darellanodev/git-content-sync): CLI tool to sync commits between repositories
+- ⚔️ [**dcss-help**](https://github.com/darellanodev/dcss-help): English-to-Spanish help texts and reference guides for DCSS
 
 ## 🌐 Webdesign
 

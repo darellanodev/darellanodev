@@ -20,10 +20,6 @@ You can view my portfolio and blog here:
 - 🧸 [**juguetear-web**](https://github.com/darellanodev/juguetear-web): A website for borrowing adapted toys
 - 🧩 [**schema-flow**](https://github.com/darellanodev/schema-flow): An application to easily create simple schemas
 
-## 🎨 Design
-
-- 😊 [**face-toon-maker**](https://github.com/darellanodev/face-toon-maker): A web app to customize a toon face
-
 ## 🎮 Games
 
 - 🏰 [**gif-tower-defense**](https://github.com/darellanodev/gif-tower-defense): A tower defense game
@@ -33,6 +29,7 @@ You can view my portfolio and blog here:
 - 🍌 [**monkey-banana-run**](https://github.com/darellanodev/monkey-banana-run): A simple arcade game
 - 🎒 [**tiny-loot-quest**](https://github.com/darellanodev/tiny-loot-quest): A simple top-down 2D game
 - 👨‍💼 [**out-of-office**](https://github.com/darellanodev/out-of-office): A simple game to learn about Three.js
+- 😊 [**face-toon-maker**](https://github.com/darellanodev/face-toon-maker): A web app to customize a toon face
 
 ## 📚 Learning
 

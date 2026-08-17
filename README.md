@@ -10,10 +10,9 @@ You can view my portfolio and blog here:
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darellanoaliaga/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Darellanodev)
 [![Codewars](https://www.codewars.com/users/darellanodev/badges/micro)](https://www.codewars.com/users/darellanodev)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-%233F54A3?style=flat&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/darellanodev)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/6KnudyHmwk)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Darellanodev)
 
 ## 🤝Collaborations
 

@@ -1,7 +1,8 @@
 # 😀 Hi there, I am
 <img src="https://github.com/darellanodev/darellanodev.github.io/blob/main/img/darellanodev_logo.svg?raw=true" alt="Darellanodev logo" width="380">
 
-A developer who loves building things, learning new tools, and contributing to the community. You can view my portfolio and blog here:
+A developer who loves building things, learning new tools, and contributing to the community.  
+You can view my portfolio and blog here:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg)](https://darellanodev.github.io/)
 [![Blog](https://img.shields.io/badge/Blog-%230077B5.svg)](https://darellanodev.github.io/blog/)

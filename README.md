@@ -1,16 +1,16 @@
 # 😀 Hi there, I am
+<img src="https://github.com/darellanodev/darellanodev.github.io/blob/main/img/darellanodev_logo.svg?raw=true" alt="Darellanodev logo" width="380">
 
-![Darellanodev logo](https://github.com/darellanodev/darellanodev.github.io/blob/main/img/darellanodev_logo.svg?raw=true)
-
-You can view my portfolio and blog here:
+A developer who loves building things, learning new tools, and contributing to the community. You can view my portfolio and blog here:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg)](https://darellanodev.github.io/)
 [![Blog](https://img.shields.io/badge/Blog-%230077B5.svg)](https://darellanodev.github.io/blog/)
 
 ## 🌐 Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darellanoaliaga/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Darellanodev)
+
+## 🏋️ Other places where I practice
 [![Codewars](https://www.codewars.com/users/darellanodev/badges/micro)](https://www.codewars.com/users/darellanodev)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-%233F54A3?style=flat&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/darellanodev)
 

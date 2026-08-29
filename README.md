@@ -20,6 +20,11 @@ You can view my portfolio and blog here:
 - 🧸 [**juguetear-web**](https://github.com/darellanodev/juguetear-web): A website for borrowing adapted toys
 - 🧩 [**schema-flow**](https://github.com/darellanodev/schema-flow): An application to easily create simple schemas
 
+## 🎨 Design
+
+- 🎬 [**remotion-board**](https://github.com/darellanodev/remotion-board): A collection of animations created with Remotion
+- 🎥 [**hyperframes-animations**](https://github.com/darellanodev/hyperframes-animations): A collection of animations created with HyperFrames
+
 ## 🎮 Games
 
 - 🏰 [**gif-tower-defense**](https://github.com/darellanodev/gif-tower-defense): A tower defense game
@@ -39,7 +44,6 @@ You can view my portfolio and blog here:
 - 📜 [**typescript-patterns**](https://github.com/darellanodev/typescript-patterns): Common TypeScript patterns for efficient coding
 - 🕹️ [**javascript-concepts**](https://github.com/darellanodev/javascript-concepts): JavaScript concepts with game examples
 - 🔧 [**refactoring-practice**](https://github.com/darellanodev/refactoring-practice): Exercises to practice refactoring techniques
-- 🎬 [**remotion-board**](https://github.com/darellanodev/remotion-board): Managing Remotion examples
 
 ## 👨‍💻 Management
 

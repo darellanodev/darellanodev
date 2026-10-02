@@ -27,14 +27,14 @@ You can view my portfolio and blog here:
 
 ## 🎮 Games
 
-- 🏰 [**gif-tower-defense**](https://github.com/darellanodev/gif-tower-defense): A tower defense game
-- 🚀 [**jetpack-game**](https://github.com/darellanodev/jetpack-game): An arcade game
-- 🍞 [**bread-baron**](https://github.com/darellanodev/bread-baron): A clicker style game
-- 🐸 [**croac-vim**](https://github.com/darellanodev/croac-vim): A game for learning VIM
-- 🍌 [**monkey-banana-run**](https://github.com/darellanodev/monkey-banana-run): A simple arcade game
+- 🏰 [**gif-tower-defense**](https://github.com/darellanodev/gif-tower-defense): Place towers and cast spells to stop the enemy waves.
+- 🚀 [**jetpack-game**](https://github.com/darellanodev/jetpack-game): Fly between planets, collect fuel and dodge enemies.
+- 🍞 [**bread-baron**](https://github.com/darellanodev/bread-baron): Build a bread empire, one click at a time.
+- 🐸 [**croac-vim**](https://github.com/darellanodev/croac-vim): Learn Vim by moving a frog through tricky levels.
+- 🍌 [**monkey-banana-run**](https://github.com/darellanodev/monkey-banana-run): Grab bananas, dodge fire and find the monkey's family.
 - 🎒 [**tiny-loot-quest**](https://github.com/darellanodev/tiny-loot-quest): A simple top-down 2D game
 - 👨‍💼 [**out-of-office**](https://github.com/darellanodev/out-of-office): A simple game to learn about Three.js
-- 😊 [**face-toon-maker**](https://github.com/darellanodev/face-toon-maker): A web app to customize a toon face
+- 😊 [**face-toon-maker**](https://github.com/darellanodev/face-toon-maker): Mix and match pieces to build cartoon faces.
 
 ## 📚 Learning
 
@@ -42,15 +42,15 @@ You can view my portfolio and blog here:
 - 📐 [**designs-for-learning**](https://github.com/darellanodev/designs-for-learning): Designs to learn programming concepts
 - 🐘​ [**pattern-lab-php**](https://github.com/darellanodev/pattern-lab-php): Experimenting with design patterns in PHP
 - 📜 [**typescript-patterns**](https://github.com/darellanodev/typescript-patterns): Common TypeScript patterns for efficient coding
-- 🕹️ [**javascript-concepts**](https://github.com/darellanodev/javascript-concepts): JavaScript concepts with game examples
+- 🕹️ [**javascript-concepts**](https://github.com/darellanodev/javascript-concepts): JavaScript concepts explained with game-style examples.
 - 🔧 [**refactoring-practice**](https://github.com/darellanodev/refactoring-practice): Exercises to practice refactoring techniques
 
 ## 👨‍💻 Management
 
-- 🔖 [**bookmark-box**](https://github.com/darellanodev/bookmark-box): An easy bookmark manager
-- 📅 [**daily-boost-calendar**](https://github.com/darellanodev/daily-boost-calendar): A calendar like GitHub contributions
+- 🔖 [**bookmark-box**](https://github.com/darellanodev/bookmark-box): Store and filter your web bookmarks in themed boxes.
+- 📅 [**daily-boost-calendar**](https://github.com/darellanodev/daily-boost-calendar): Track your habits with GitHub-style calendars and stats.
 - 👷 [**job-calendar**](https://github.com/darellanodev/job-calendar): App to schedule the user’s work shifts
-- ⭐ [**stellar-task**](https://github.com/darellanodev/stellar-task): A simple application for managing projects
+- ⭐ [**stellar-task**](https://github.com/darellanodev/stellar-task): Organize projects and track the state of your tasks.
 - ✅ [**taskio**](https://github.com/darellanodev/taskio): A tool for managing tasks and projects
 
 ## 📁 Portfolio
@@ -61,7 +61,7 @@ You can view my portfolio and blog here:
 ## 🛠️ Tools
 
 - 🍳 [**chef-ai**](https://github.com/darellanodev/chef-ai): A simple application to experiment with AI
-- 📺 [**media-magnet**](https://github.com/darellanodev/media-magnet): A multi-tool GUI for video and audio downloads
+- 📺 [**media-magnet**](https://github.com/darellanodev/media-magnet): A visual builder for yt-dlp download commands and other tools.
 - 🔄 [**git-content-sync**](https://github.com/darellanodev/git-content-sync): CLI tool to sync commits between repositories
 - ⚔️ [**dcss-help**](https://github.com/darellanodev/dcss-help): English-to-Spanish help texts and reference guides for DCSS
 

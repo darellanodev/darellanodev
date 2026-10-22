@@ -35,6 +35,7 @@ You can view my portfolio and blog here:
 - 🎒 [**tiny-loot-quest**](https://github.com/darellanodev/tiny-loot-quest): A simple top-down 2D game
 - 👨‍💼 [**out-of-office**](https://github.com/darellanodev/out-of-office): A simple game to learn about Three.js
 - 😊 [**face-toon-maker**](https://github.com/darellanodev/face-toon-maker): Mix and match pieces to build cartoon faces.
+- 🎱 [**cave-drop**](https://github.com/darellanodev/cave-drop): Guide the balls through the caves.
 
 ## 📚 Learning
 

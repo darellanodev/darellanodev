@@ -37,6 +37,7 @@ You can view my portfolio and blog here:
 - 😊 [**face-toon-maker**](https://github.com/darellanodev/face-toon-maker): Mix and match pieces to build cartoon faces.
 - 🎱 [**cave-drop**](https://github.com/darellanodev/cave-drop): Guide the balls through the caves.
 - 🐱 [**memory-kids-cat**](https://github.com/darellanodev/memory-kids-cat): Train your memory with the cat.
+- 🛰️ [**space-lab**](https://github.com/darellanodev/space-lab): Turn on space station computers and avoid dangers.
 
 ## 📚 Learning
 
